@@ -1,0 +1,12 @@
+{
+    "name": "jamesamner/wp-post-type-registration-json",
+    "description": "Post Type Registration from a JSON file for WordPress",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "James Amner",
+            "email": "jdamner@me.com"
+        }
+    ],
+    "require": {}
+}
